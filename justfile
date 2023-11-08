@@ -1,5 +1,5 @@
-jgfhgfghfset positional-arguments
-
+positional-arguments
+nal-arguments
 watch +args='test':
   cargo watch --clear --exec '{{args}}'
 
